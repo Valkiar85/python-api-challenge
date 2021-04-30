@@ -1,3 +1,3 @@
-weather_api_key = "fbf3700f0c274aafcd02d754f539090f"
+weather_api_key = "xxxxx"
 
-g_key = "AIzaSyAYQPRSqyCMaODNB-S7sBYX-mx2XgmVnbs"
+g_key = "xxxxx"
