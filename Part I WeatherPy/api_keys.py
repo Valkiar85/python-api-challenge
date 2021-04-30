@@ -1,3 +1,3 @@
-weather_api_key = "www"
+weather_api_key = "xxxxx"
 
-g_key = "www"
+g_key = "xxxxx"
